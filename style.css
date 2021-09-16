@@ -4,3 +4,9 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 20px 15px
 }
+.par{
+    background:paleturquoise
+}
+.tit{
+    text-shadow: 2px 3px palevioletred;
+}
