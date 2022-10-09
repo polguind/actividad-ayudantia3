@@ -19,7 +19,6 @@ $(document).ready(function(){
 
 });
 
-
 $(document).ready(function(){
     var  todito =$(".todito");
     todito.click(function(){
@@ -28,3 +27,14 @@ $(document).ready(function(){
     });
     
 });
+
+$(document).ready(function(){
+    var  toditos =$(".todito");
+    todito.click(function(){
+        $("#escondido").text()
+        $('#escondido').text('El primer día de cada mes lanzo el wrap up del mes anterior ¡Atentx!')
+    });
+    
+});
+
+// jkhakjgfajkhflkjalñfjaslñ
